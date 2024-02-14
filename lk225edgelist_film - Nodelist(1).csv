@@ -1,0 +1,55 @@
+id,name,sex,role,year,birth,type,prize,education,location
+albs,Albrecht Schuch,2,1,2020,1985,1,1,2,NA
+webu,Welket Bungué,2,1,2020,1988,1,NA,2,NA
+jabu,Jan Bülow,2,1,2020,1996,1,NA,2,NA
+heze,Helena Zengel,1,1,2020,2008,1,1,3,NA
+anra,Anne Ratte-Polle,1,1,2020,1974,1,NA,1,NA
+alse,Alina Serban,1,1,2020,1987,1,NA,2,NA
+gama,Gabriela Maria Schmeide,1,2,2020,1965,1,1,2,NA
+jeha,Jella Haase,1,2,2020,1992,1,NA,2,NA
+liha,Lisa Hagmeister,1,2,2020,1979,1,NA,2,NA
+gogi,godehard giese,2,2,2020,1972,1,NA,2,NA
+paal,Pasquale Aleardi,2,2,2020,1971,1,NA,2,NA
+system,Systemsprenger,NA,NA,2020,NA,3,1,NA,NA
+wort,Es gilt das gesprochene Wort,NA,NA,2020,NA,3,3,NA,NA
+gipsy,Gipsy Queen,NA,NA,2020,NA,3,NA,NA,NA
+berlin,Berlin Alexanderplatz,NA,NA,2020,NA,3,2,NA,NA
+linden,Lindenberg! Mach dein Ding,NA,NA,2020,NA,3,NA,NA,NA
+newyork,Ich war noch niemals in New York,NA,NA,2020,NA,3,NA,NA,NA
+ende,Das Ende der Wahrheit,NA,NA,2019,NA,3,NA,NA,NA
+weichei,Glück ist was für Weicheier,NA,NA,2019,NA,3,NA,NA,NA
+autor,Werk ohne Autor,NA,NA,2019,NA,3,NA,NA,NA
+styx,Styx,NA,NA,2019,NA,3,2,NA,NA
+gut,Alles is gut,NA,NA,2019,NA,3,NA,NA,NA
+paar,Das schönste Paar,NA,NA,2019,NA,3,NA,NA,NA
+gunde,Gundermann,NA,NA,2019,NA,3,1,NA,NA
+atlas,Atlas,NA,NA,2019,NA,3,NA,NA,NA
+handschuh,Der Goldene Handschuh,NA,NA,2019,NA,3,NA,NA,NA
+junge,Der Junge muss an die Frische Luft,NA,NA,2019,NA,3,3,NA,NA
+joda,Jonas Dassler,2,1,2019,1996,1,NA,2,NA
+rabo,Rainer Bock,2,1,2019,1954,1,NA,2,NA
+alsc,Alexander Scheer,2,1,2019,1976,1,1,3,NA
+suwo,Susanne Wolff,1,1,2019,1973,1,1,2,NA
+aesc,Aenne Schwarz,1,1,2019,1983,1,NA,2,NA
+luhe,Luise Heyer,1,1,2019,1985,1,1,2,NA
+mati,Margarethe Tiesel,1,2,2019,1959,1,NA,2,NA
+evwe,Eva Weißenborn,1,2,2019,1954,1,NA,2,NA
+alfe,Alexander Fehling,1,2,2019,1981,1,1,2,NA
+mawu,Martin Wuttke,1,2,2019,1962,1,NA,2,NA
+olma,Oliver Masucci,1,2,2019,1968,1,NA,2,NA
+above,Above the Line GmbH,NA,NA,NA,NA,2,NA,NA,München
+players,Agentur Players,NA,NA,NA,NA,2,NA,NA,Berlin
+crush,CRUSH agency,NA,NA,NA,NA,2,NA,NA,Berlin
+lambsdorff,Agentur Lambsdorff,NA,NA,NA,NA,2,NA,NA,München
+subtitle,Subtitle Talent,NA,NA,NA,NA,2,NA,NA,London
+lux,Lux Talents,NA,NA,NA,NA,2,NA,NA,Berlin
+lastrada,lastrada.doells,NA,NA,NA,NA,2,NA,NA,Berlin
+schneider,Agentur Schneider,NA,NA,NA,NA,2,NA,NA,Berlin
+britta,Agentur Britta Imdahl,NA,NA,NA,NA,2,NA,NA,Bochum
+fitz,Fitz + Skoglund Agents,NA,NA,NA,NA,2,NA,NA,Berlin
+inka,Agentur Inka Stelljes,NA,NA,NA,NA,2,NA,NA,Berlin
+agenten,die agenten,NA,NA,NA,NA,2,NA,NA,Berlin
+siefert,Agentur Tanja Siefert,NA,NA,NA,NA,2,NA,NA,Wien
+gold,Gold Berlin,NA,NA,NA,NA,2,NA,NA,Berlin
+hoester,hoestermann Agentur für Schauspieler,NA,NA,NA,NA,2,NA,NA,Berlin
+talent,Talent Republic Agency,NA,NA,NA,NA,2,NA,NA,Berlin
